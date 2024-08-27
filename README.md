@@ -6,3 +6,7 @@ TestDesign_T1
 	used technics:  Equivalence Partitioning and Boundary Values; 
 			Domain Analysis;
 			Combinatorics approach 
+
+TestDesign_T2
+	used technics:  Equivalence Partitioning and Boundary Values; 
+			Combinatorics approach 
